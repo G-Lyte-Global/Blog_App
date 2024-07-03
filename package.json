@@ -1,0 +1,13 @@
+{
+  "name": "Blog_App",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/G-Lyte-Global/Blog_App",
+  "author": "Zee-Blazer <ganiyu.bo.bolaji@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.4"
+  }
+}
